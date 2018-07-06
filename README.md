@@ -1,3 +1,6 @@
+Note that this repo is out of date. The bellow mentioned branch `23-addLocalPackges` 
+is merged into master and the script may be otherwise incomplete.
+
 This repo shows how you can set up your local miniCRAN and add your own *local* 
 packages using the package `miniCRAN` and the function `addLocalPackage` from
 the branch `23-addLocalPackages` (not yet merge with `master`) in particular. 
